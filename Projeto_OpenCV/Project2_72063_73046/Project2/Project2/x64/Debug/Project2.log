@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\utilizador\desktop\universidade\4_ano\1_semestre\cv\projeto_opencv\project2_72063_73046\project2\project2\main.cpp(588): warning C4101: 'sigma_s': unreferenced local variable
+c:\users\utilizador\desktop\universidade\4_ano\1_semestre\cv\projeto_opencv\project2_72063_73046\project2\project2\main.cpp(588): warning C4101: 'sigma_r': unreferenced local variable
+c:\users\utilizador\desktop\universidade\4_ano\1_semestre\cv\projeto_opencv\project2_72063_73046\project2\project2\main.cpp(606): warning C4101: 'sigma_s': unreferenced local variable
+c:\users\utilizador\desktop\universidade\4_ano\1_semestre\cv\projeto_opencv\project2_72063_73046\project2\project2\main.cpp(606): warning C4101: 'sigma_r': unreferenced local variable
+  Project2.vcxproj -> C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\CV\Projeto_OpenCV\Project2_72063_73046\Project2\Project2\x64\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\Utilizador\Desktop\Universidade\4_ano\1_semestre\CV\Projeto_OpenCV\Project2_72063_73046\Project2\Project2\x64\Debug\Project2.pdb (Partial PDB)
